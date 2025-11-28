@@ -8,14 +8,11 @@ print("This line is added after the first commit.")
 
 #this line is to check how modified file is added in master branch 
 
-<<<<<<< Updated upstream
 #this line is added for third commit
 print("This line is added for the third commit.")
 #this part is third commit part for trial
-=======
 
 
 
 
 print("This line is added to check modified file in master branch.")
->>>>>>> Stashed changes
